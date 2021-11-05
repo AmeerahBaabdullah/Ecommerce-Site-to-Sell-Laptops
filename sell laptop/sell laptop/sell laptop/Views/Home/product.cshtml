@@ -1,0 +1,146 @@
+﻿@model IEnumerable<sell_laptop.Models.product>
+
+@{
+    ViewBag.Title = "Product";
+}
+
+<p>
+
+</p>
+
+<h2></h2>
+<!-- SECTION -->
+@foreach (var item in Model)
+{
+    <div class="section">
+        <!-- container -->
+        <div class="container">
+            <!-- row -->
+            <div class="row">
+                <!-- Product main img -->
+                <div class="col-md-5 ">
+                    <div id="product-main-img">
+                        <div class="product-preview">
+                            <img src="~/img/@item.pic" alt="" />
+                        </div>
+                    </div>
+                </div>
+                <!-- /Product main img -->
+                <!-- Product details -->
+                <div class="col-md-4 col-md-push-1">
+                    <div class="product-details">
+                        <hr />
+                        <h2 class="product-name">@item.name</h2>
+
+                        <div>
+                            @if (item.offer != 0)
+                            {
+                                int offer = @item.price - ((@item.price * @item.offer) / 100);
+                                <h4 class="product-price">$@offer <del class="product-old-price">$@item.price</del></h4>
+                            }
+                            else
+                            {
+                                <h4 class="product-price">$@item.price</h4>
+                            }
+                            <span class="product-available">@item.stauts</span>
+                        </div>
+                        <p>@item.decs</p>
+
+
+                        <div class="add-to-cart">
+                       
+
+
+                            <div>
+                               <hr/>
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-5">
+
+
+
+                                                @using (Html.BeginForm(
+                                             "AddCart", "Home",
+                                             new { p = item.id, ch = 0 },
+                                             FormMethod.Post, null
+                                             ))
+                                                {<h5>
+                                                        QTY:
+                                                        @Html.DropDownList("t", Enumerable.Range(1, @item.quantity).Select(i => new SelectListItem { Text = i.ToString(), Value = i.ToString() }), "----Select---- ")
+                                                    </h5>
+                                                    @*@Html.TextBox("t");*@
+
+                                                    <button id="btnShowModal" class="add-to-cart-btn"><i class="fa fa-shopping-cart"></i> add to cart</button>
+
+                                                }
+
+
+                                                <hr />
+                                                <hr />
+
+                                                @Html.Raw(HttpUtility.HtmlDecode((Html.ValidationSummary(false, "", new { @class = "exception" })).ToHtmlString()))
+                                            </div>
+                                        </div>
+                               </div>
+                            </div>
+
+                            <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js">
+
+                            </script>
+                            <script src="bootstrap/js/bootstrap.min.js"></script>
+                            <script type="text/javascript">
+                                ShowModelPopUp = function () {
+                                    window.showModalDialog('/Home/AddCart', "WindowPopup", 'width=400px,height=400px');
+                                }
+                            </script>
+                            <script type="text/javascript">
+
+                                $(document).ready(function () {
+                                    $("#btnShowModal").click(function () {
+                                        $("#loginModal").modal('show');
+                                    });
+
+                                    $("#btnHideModal").click(function () {
+                                        $("#loginModal").modal('hide');
+                                    });
+                                });
+                            </script>
+
+                            <script type="text/javascript">
+                                $(function () {
+                                    $("#SelectedPropertyType").change(function () {
+                                        alert($("#SelectedPropertyType").value);
+                                    });
+                                });
+                            </script>
+                        </div>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+    </div>
+
+    @Ajax.ActionLink("Open popup", "SomeAction", new AjaxOptions { HttpMethod = "GET", UpdateTargetId = "result", InsertionMode = InsertionMode.Replace, OnSuccess = "openPopup" })<br />
+
+    <div id="result" style="display:none;"></div>
+
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $("#result").dialog({
+                autoOpen: false,
+                title: 'Title',
+                width: 500,
+                height: 'auto',
+                modal: true
+            });
+        });
+        function openPopup() {
+            $("#result").dialog("open");
+        }
+    </script>
+    <!-- /SECTION -->
+}
+

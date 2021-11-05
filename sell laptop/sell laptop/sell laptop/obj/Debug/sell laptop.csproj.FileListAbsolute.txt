@@ -1,0 +1,156 @@
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\sell laptop.dll.config
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\sell laptop.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\sell laptop.pdb
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\csc.exe
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\csc.exe.config
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\csc.rsp
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\csi.exe
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\csi.exe.config
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\csi.rsp
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.AppContext.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Console.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.IO.Compression.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.Claims.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.ValueTuple.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\vbc.exe
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\vbc.exe.config
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\vbc.rsp
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\VBCSCompiler.exe
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Antlr3.Runtime.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Newtonsoft.Json.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Helpers.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Mvc.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Optimization.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Razor.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.WebPages.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.WebPages.Razor.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\WebGrease.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Helpers.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Mvc.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Optimization.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.Razor.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.WebPages.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\System.Web.WebPages.Razor.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Newtonsoft.Json.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Antlr3.Runtime.pdb
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mohda\source\repos\sell laptop\sell laptop\obj\Debug\sell laptop.csprojAssemblyReference.cache
+C:\Users\mohda\source\repos\sell laptop\sell laptop\obj\Debug\sell laptop.csproj.CoreCompileInputs.cache
+C:\Users\mohda\source\repos\sell laptop\sell laptop\obj\Debug\sell laptop.csproj.CopyComplete
+C:\Users\mohda\source\repos\sell laptop\sell laptop\obj\Debug\sell laptop.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\obj\Debug\sell laptop.pdb
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Dapper.dll
+C:\Users\mohda\source\repos\sell laptop\sell laptop\bin\Dapper.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\sell laptop.dll.config
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\sell laptop.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\sell laptop.pdb
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\csc.exe
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\csc.exe.config
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\csc.rsp
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\csi.exe
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\csi.exe.config
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\csi.rsp
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.AppContext.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Console.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.IO.Compression.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.IO.Pipes.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.Claims.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.ValueTuple.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Xml.XPath.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\vbc.exe
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\vbc.exe.config
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\vbc.rsp
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\VBCSCompiler.exe
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Antlr3.Runtime.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Dapper.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Newtonsoft.Json.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Helpers.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Mvc.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Optimization.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Razor.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.WebPages.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.WebPages.Razor.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\WebGrease.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Dapper.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Helpers.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Mvc.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Optimization.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.Razor.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.WebPages.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\System.Web.WebPages.Razor.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Newtonsoft.Json.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Antlr3.Runtime.pdb
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\obj\Debug\sell laptop.csproj.AssemblyReference.cache
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\obj\Debug\sell laptop.csproj.CoreCompileInputs.cache
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\obj\Debug\sell laptop.csproj.CopyComplete
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\obj\Debug\sell laptop.dll
+C:\Users\ameer\OneDrive\سطح المكتب\Laptop web MVC\Laptop web MVC\sell laptop\sell laptop\sell laptop\obj\Debug\sell laptop.pdb

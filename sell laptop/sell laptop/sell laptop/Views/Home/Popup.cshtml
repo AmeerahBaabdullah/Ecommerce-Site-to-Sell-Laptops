@@ -1,0 +1,21 @@
+﻿
+
+<h2>Popup</h2>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+
+</head>
+<body>
+    @if (TempData["Message"] != null)
+    {
+        <h3>@TempData["Message"].ToString()</h3>
+    }
+</body>
+</html>

@@ -1,0 +1,62 @@
+﻿@model IEnumerable<sell_laptop.Models.user>
+
+@{
+    ViewBag.Title = "Viewuser";
+}
+
+    <hr /><hr />
+
+          <table class="table">
+  
+              @foreach (var item in Model)
+              {
+                  
+                  <tr>
+                      <td>
+                          <h5>@Html.DisplayNameFor(model => model.Fname):</h5>
+
+                          @Html.DisplayFor(modelItem => item.Fname)
+</td>
+</tr>
+                  <tr>
+                      <td>
+                          <h5>@Html.DisplayNameFor(model => model.Lname):</h5>
+
+                          @Html.DisplayFor(modelItem => item.Lname)
+                      </td>
+                  </tr>
+
+                  <tr>
+
+                      <td>
+                          <h5>@Html.DisplayNameFor(model => model.address):</h5>
+
+                          @Html.DisplayFor(modelItem => item.address)
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>
+                          <h5>@Html.DisplayNameFor(model => model.city):</h5>
+
+                          @Html.DisplayFor(modelItem => item.city)
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>
+                          <h5>@Html.DisplayNameFor(model => model.country):</h5>
+
+                          @Html.DisplayFor(modelItem => item.country)
+                      </td>
+                  </tr>
+                  <tr>
+                      <td>
+                          <h5>@Html.DisplayNameFor(model => model.phone):</h5>
+
+                          @Html.DisplayFor(modelItem => item.phone)
+                      </td>
+                  </tr>
+                 
+              }
+
+          </table>
+<hr /><hr /><hr /><hr />

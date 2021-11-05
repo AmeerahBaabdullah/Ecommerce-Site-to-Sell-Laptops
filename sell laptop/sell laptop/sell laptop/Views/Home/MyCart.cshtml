@@ -1,0 +1,96 @@
+﻿@model IEnumerable<sell_laptop.Models.Cart>
+
+@{
+    ViewBag.Title = "MyCart";
+}
+<style>
+    .button {
+        background-color: #ed0e0e;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+</style>
+
+<table class="table">
+
+    <tr>
+        <th>
+
+        </th>
+        <th style="width:50%">
+            @Html.DisplayNameFor(model => model.lapId)
+
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.price)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.quantity)
+        </th>
+
+        <th></th>
+    </tr>
+    @foreach (var item in Model)
+    {
+
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.desc)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.price)
+            </td>
+            <td>
+                <div style="width:300px">
+                    @using (Html.BeginForm("Edit", "Home", new { lapid = item.lapId }))
+                    {
+
+                        @Html.DropDownList("t", Enumerable.Range(1, @item.quantity).Select(i => new SelectListItem { Text = i.ToString(), Value = i.ToString() }), "----Select---- ")
+
+                        <input type="submit" class="btn btn-link" style="color:black" value="Edit/Save |" />
+                        @Html.ActionLink("Delete", "Delete", new { lapid = item.lapId })
+
+                    }
+                </div>
+            </td>
+        </tr>
+    }
+
+
+
+
+
+</table>
+<hr /><hr /><hr /><hr /><hr /><hr />
+<div class="add-to-cart">
+    <a href="~/Home/Checkout">
+        <Button class="button"><i class="fa fa-shopping-cart"></i> Checkout </Button>
+    </a>
+
+    <a href="~/Home/Shop">
+        <Button class="button"><i class="fa fa-shopping-cart"></i> Continue Shopping </Button>
+    </a>
+
+</div>
+@if (TempData["Message"] != null)
+{
+    TempData.Keep("Message");
+    <script type="text/javascript">
+        window.onload = function () {
+            var popup = window.open("/Home/Popup", "Popup", "toolbar=no,scrollbars=no,location=no,statusbar=no,menubar=no,resizable=0, width=200,height=200,left = 490,top = 262");
+            popup.focus();
+            popup.h
+        };
+    </script>
+}
+<hr /><hr /><hr /><hr /><hr /><hr />

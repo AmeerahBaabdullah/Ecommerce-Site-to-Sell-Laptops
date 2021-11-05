@@ -1,0 +1,138 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - My ASP.NET Application</title>
+    @Styles.Render("~/Content/Css")
+    @Scripts.Render("~/bundles/modernizr")
+</head>
+<body>
+    <header>
+
+        <!-- MAIN HEADER -->
+        <div id="header">
+            <!-- container -->
+            <div class="container">
+                <!-- row -->
+                <div class="row">
+                    <!-- LOGO -->
+                    <div class="col-md-3">
+                        <div class="header-logo">
+                            <a href="#" class="logo">
+                                <img src="~/img/logo.png" alt="">
+                            </a>
+                        </div>
+                    </div>
+               
+                    <div class="col-md-9 clearfix">
+                        <div class="header-ctn">
+                            @if (Session["Email"] != null)
+                            {
+
+                                <div>
+                                    <a href="#">
+                                        <i class="fa fa-heart-o"></i>
+                                        <span>
+                                            @Html.ActionLink("log out", "LogOut", "Home")
+                                        </span>
+                                    </a>
+                                </div>
+                                <div>
+                                    <a href="#">
+                                        <i class="fa fa-shopping-cart"></i>
+                                        <span>
+                                            @Html.ActionLink("My Cart", "MyCart", "Home")
+
+                                        </span>
+                                    </a>
+                                </div>
+
+                            }
+                            else
+                            {
+
+                                <div>
+                                    <a href="#">
+                                        <i class="fa fa-heart-o"></i>
+                                        <span>
+                                            @Html.ActionLink("log in", "LogIn", "Home")
+                                        </span>
+                                    </a>
+                                </div>
+
+                            }
+
+                            <!-- /Cart -->
+                            <!-- Menu Toogle -->
+                            <div class="menu-toggle">
+                                <a href="#">
+                                    <i class="fa fa-bars"></i>
+                                    <span>Menu</span>
+                                </a>
+                            </div>
+                        </div>
+                    </div>  <!-- /Menu Toogle -->
+                </div>
+                    </div>
+                    <!-- /ACCOUNT -->
+                </div>
+                <!-- row -->
+            </div>
+            <!-- container -->
+        </div>
+        <!-- /MAIN HEADER -->
+    </header>
+    <!-- /HEADER -->
+    <!-- NAVIGATION -->
+    <nav id="navigation">
+        <!-- container -->
+        <div class="container">
+            <!-- responsive-nav -->
+            <div id="responsive-nav">
+                <!-- NAV -->
+                <ul class="nav navbar-nav">
+                    <li>@Html.ActionLink("Home", "Index", "Home")</li>
+                    <li>@Html.ActionLink("Shop", "Shop", "Home")</li>
+                    <li>@Html.ActionLink("About", "About", "Home")</li>
+                    <li>@Html.ActionLink("Profile", "Viewuser", "Home")</li>
+
+                    <li>@Html.ActionLink("Contact", "Contact", "Home")</li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div class="container body-content">
+        @RenderBody()
+       
+        </div>
+        <div style="bottom:0 ;width:100%;height:4%;background-color:black">
+           
+            <footer  style="border: 1px solid black">
+                <div id="bottom-footer" >
+                    <div class="section">
+                        <div class="container">
+                            <!-- row -->
+                            <div class="row">
+                                <div class="col-md-12 text-center">
+
+                                    <span class="copyright">
+                                        Copyright &copy;
+                                        <script>document.write(new Date().getFullYear());</script> All rights reserved | by <a href="" target="_blank">Electro</a>
+                                    </span>
+                                </div>
+                            </div>
+                            <!-- /row -->
+                        </div>
+                        <!-- /container -->
+                    </div>
+                </div>
+            </footer>
+        </div>
+     
+        @Scripts.Render("~/bundles/jquery")
+        @Scripts.Render("~/bundles/bootstrap")
+        @RenderSection("scripts", required: false)
+</body>
+</html>
